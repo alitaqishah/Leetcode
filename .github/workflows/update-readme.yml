@@ -1,0 +1,31 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Update README
+        run: |
+          echo "" >> README.md
+          echo "Last updated automatically by GitHub Actions." >> README.md
+
+      - name: Commit README changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "Update README automatically" || echo "No changes to commit"
+          git push
