@@ -34,4 +34,5 @@
 | 903 | Implement Rand10 Using Rand7 | [Python](https://github.com/alitaqishah/Leetcode/blob/main/903-implement-rand10-using-rand7/implement-rand10-using-rand7.py) |
 | 1362 | Airplane Seat Assignment Probability | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1362-airplane-seat-assignment-probability/airplane-seat-assignment-probability.py) |
 | 1577 | Probability Of A Two Boxes Having The Same Number Of Distinct Balls | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py) |
+| 1894 | Merge Strings Alternately | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1894-merge-strings-alternately/merge-strings-alternately.py) |
 | 2058 | Concatenation Of Array | [Python](https://github.com/alitaqishah/Leetcode/blob/main/2058-concatenation-of-array/concatenation-of-array.py) |
