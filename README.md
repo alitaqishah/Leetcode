@@ -29,6 +29,7 @@
 | 238 | Product Of Array Except Self | [Python](https://github.com/alitaqishah/Leetcode/blob/main/238-product-of-array-except-self/product-of-array-except-self.py) |
 | 274 | H Index | [Python](https://github.com/alitaqishah/Leetcode/blob/main/274-h-index/h-index.py) |
 | 380 | Insert Delete Getrandom O1 | [Python](https://github.com/alitaqishah/Leetcode/blob/main/380-insert-delete-getrandom-o1/insert-delete-getrandom-o1.py) |
+| 605 | Can Place Flowers | [Python](https://github.com/alitaqishah/Leetcode/blob/main/605-can-place-flowers/can-place-flowers.py) |
 | 826 | Soup Servings | [Python](https://github.com/alitaqishah/Leetcode/blob/main/826-soup-servings/soup-servings.py) |
 | 867 | New 21 Game | [Python](https://github.com/alitaqishah/Leetcode/blob/main/867-new-21-game/new-21-game.py) |
 | 903 | Implement Rand10 Using Rand7 | [Python](https://github.com/alitaqishah/Leetcode/blob/main/903-implement-rand10-using-rand7/implement-rand10-using-rand7.py) |
