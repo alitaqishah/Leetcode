@@ -31,6 +31,7 @@
 | 334 | Increasing Triplet Subsequence | [Python](https://github.com/alitaqishah/Leetcode/blob/main/334-increasing-triplet-subsequence/increasing-triplet-subsequence.py) |
 | 345 | Reverse Vowels Of A String | [Python](https://github.com/alitaqishah/Leetcode/blob/main/345-reverse-vowels-of-a-string/reverse-vowels-of-a-string.py) |
 | 380 | Insert Delete Getrandom O1 | [Python](https://github.com/alitaqishah/Leetcode/blob/main/380-insert-delete-getrandom-o1/insert-delete-getrandom-o1.py) |
+| 392 | Is Subsequence | [Python](https://github.com/alitaqishah/Leetcode/blob/main/392-is-subsequence/is-subsequence.py) |
 | 443 | String Compression | [Python](https://github.com/alitaqishah/Leetcode/blob/main/443-string-compression/string-compression.py) |
 | 605 | Can Place Flowers | [Python](https://github.com/alitaqishah/Leetcode/blob/main/605-can-place-flowers/can-place-flowers.py) |
 | 826 | Soup Servings | [Python](https://github.com/alitaqishah/Leetcode/blob/main/826-soup-servings/soup-servings.py) |
