@@ -24,6 +24,7 @@
 | 134 | Gas Station | [Python](https://github.com/alitaqishah/Leetcode/blob/main/134-gas-station/gas-station.py) |
 | 135 | Candy | [Python](https://github.com/alitaqishah/Leetcode/blob/main/135-candy/candy.py) |
 | 151 | Reverse Words In A String | [Python](https://github.com/alitaqishah/Leetcode/blob/main/151-reverse-words-in-a-string/reverse-words-in-a-string.py) |
+| 167 | Two Sum Ii Input Array Is Sorted | [Python](https://github.com/alitaqishah/Leetcode/blob/main/167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py) |
 | 169 | Majority Element | [Python](https://github.com/alitaqishah/Leetcode/blob/main/169-majority-element/majority-element.py) |
 | 189 | Rotate Array | [Python](https://github.com/alitaqishah/Leetcode/blob/main/189-rotate-array/rotate-array.py) |
 | 238 | Product Of Array Except Self | [Python](https://github.com/alitaqishah/Leetcode/blob/main/238-product-of-array-except-self/product-of-array-except-self.py) |
