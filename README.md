@@ -8,6 +8,7 @@
 | 12 | Integer To Roman | [Python](https://github.com/alitaqishah/Leetcode/blob/main/12-integer-to-roman/integer-to-roman.py) |
 | 13 | Roman To Integer | [Python](https://github.com/alitaqishah/Leetcode/blob/main/13-roman-to-integer/roman-to-integer.py) |
 | 14 | Longest Common Prefix | [Python](https://github.com/alitaqishah/Leetcode/blob/main/14-longest-common-prefix/longest-common-prefix.py) |
+| 15 | 3Sum | [Python](https://github.com/alitaqishah/Leetcode/blob/main/15-3sum/3sum.py) |
 | 26 | Remove Duplicates From Sorted Array | [Python](https://github.com/alitaqishah/Leetcode/blob/main/26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py) |
 | 27 | Remove Element | [Python](https://github.com/alitaqishah/Leetcode/blob/main/27-remove-element/remove-element.py) |
 | 28 | Find The Index Of The First Occurrence In A String | [Python](https://github.com/alitaqishah/Leetcode/blob/main/28-find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.py) |
