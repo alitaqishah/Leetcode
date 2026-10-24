@@ -17,6 +17,7 @@
 | 48 | Rotate Image | [Python](https://github.com/alitaqishah/Leetcode/blob/main/48-rotate-image/rotate-image.py) |
 | 55 | Jump Game | [Python](https://github.com/alitaqishah/Leetcode/blob/main/55-jump-game/jump-game.py) |
 | 58 | Length Of Last Word | [Python](https://github.com/alitaqishah/Leetcode/blob/main/58-length-of-last-word/length-of-last-word.py) |
+| 66 | Plus One | [Python](https://github.com/alitaqishah/Leetcode/blob/main/66-plus-one/plus-one.py) |
 | 68 | Text Justification | [Python](https://github.com/alitaqishah/Leetcode/blob/main/68-text-justification/text-justification.py) |
 | 80 | Remove Duplicates From Sorted Array Ii | [Python](https://github.com/alitaqishah/Leetcode/blob/main/80-remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.py) |
 | 88 | Merge Sorted Array | [Python](https://github.com/alitaqishah/Leetcode/blob/main/88-merge-sorted-array/merge-sorted-array.py) |
