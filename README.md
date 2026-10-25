@@ -23,6 +23,7 @@
 | 88 | Merge Sorted Array | [Python](https://github.com/alitaqishah/Leetcode/blob/main/88-merge-sorted-array/merge-sorted-array.py) |
 | 121 | Best Time To Buy And Sell Stock | [Python](https://github.com/alitaqishah/Leetcode/blob/main/121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
 | 122 | Best Time To Buy And Sell Stock Ii | [Python](https://github.com/alitaqishah/Leetcode/blob/main/122-best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py) |
+| 125 | Valid Palindrome | [Python](https://github.com/alitaqishah/Leetcode/blob/main/125-valid-palindrome/valid-palindrome.py) |
 | 134 | Gas Station | [Python](https://github.com/alitaqishah/Leetcode/blob/main/134-gas-station/gas-station.py) |
 | 135 | Candy | [Python](https://github.com/alitaqishah/Leetcode/blob/main/135-candy/candy.py) |
 | 151 | Reverse Words In A String | [Python](https://github.com/alitaqishah/Leetcode/blob/main/151-reverse-words-in-a-string/reverse-words-in-a-string.py) |
