@@ -3,6 +3,7 @@
 | **#** | **Problem** | **Solution** |
 | ----- | ----------- | ------------ |
 | 1 | Two Sum | [Python](https://github.com/alitaqishah/Leetcode/blob/main/0001-two-sum/0001-two-sum.py) |
+| 3 | Longest Substring Without Repeating Characters | [Python](https://github.com/alitaqishah/Leetcode/blob/main/3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py) |
 | 6 | Zigzag Conversion | [Python](https://github.com/alitaqishah/Leetcode/blob/main/6-zigzag-conversion/zigzag-conversion.py) |
 | 11 | Container With Most Water | [Python](https://github.com/alitaqishah/Leetcode/blob/main/11-container-with-most-water/container-with-most-water.py) |
 | 12 | Integer To Roman | [Python](https://github.com/alitaqishah/Leetcode/blob/main/12-integer-to-roman/integer-to-roman.py) |
