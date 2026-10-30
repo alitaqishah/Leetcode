@@ -43,6 +43,7 @@
 | 826 | Soup Servings | [Python](https://github.com/alitaqishah/Leetcode/blob/main/826-soup-servings/soup-servings.py) |
 | 867 | New 21 Game | [Python](https://github.com/alitaqishah/Leetcode/blob/main/867-new-21-game/new-21-game.py) |
 | 903 | Implement Rand10 Using Rand7 | [Python](https://github.com/alitaqishah/Leetcode/blob/main/903-implement-rand10-using-rand7/implement-rand10-using-rand7.py) |
+| 1046 | Max Consecutive Ones Iii | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1046-max-consecutive-ones-iii/max-consecutive-ones-iii.py) |
 | 1146 | Greatest Common Divisor Of Strings | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1146-greatest-common-divisor-of-strings/greatest-common-divisor-of-strings.py) |
 | 1362 | Airplane Seat Assignment Probability | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1362-airplane-seat-assignment-probability/airplane-seat-assignment-probability.py) |
 | 1482 | How Many Numbers Are Smaller Than The Current Number | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1482-how-many-numbers-are-smaller-than-the-current-number/how-many-numbers-are-smaller-than-the-current-number.py) |
