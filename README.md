@@ -50,6 +50,7 @@
 | 1528 | Kids With The Greatest Number Of Candies | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1528-kids-with-the-greatest-number-of-candies/kids-with-the-greatest-number-of-candies.py) |
 | 1567 | Maximum Number Of Vowels In A Substring Of Given Length | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1567-maximum-number-of-vowels-in-a-substring-of-given-length/maximum-number-of-vowels-in-a-substring-of-given-length.py) |
 | 1577 | Probability Of A Two Boxes Having The Same Number Of Distinct Balls | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py) |
+| 1586 | Longest Subarray Of 1S After Deleting One Element | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1586-longest-subarray-of-1s-after-deleting-one-element/longest-subarray-of-1s-after-deleting-one-element.py) |
 | 1798 | Max Number Of K Sum Pairs | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1798-max-number-of-k-sum-pairs/max-number-of-k-sum-pairs.py) |
 | 1894 | Merge Strings Alternately | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1894-merge-strings-alternately/merge-strings-alternately.py) |
 | 2058 | Concatenation Of Array | [Python](https://github.com/alitaqishah/Leetcode/blob/main/2058-concatenation-of-array/concatenation-of-array.py) |
