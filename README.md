@@ -52,5 +52,6 @@
 | 1577 | Probability Of A Two Boxes Having The Same Number Of Distinct Balls | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py) |
 | 1586 | Longest Subarray Of 1S After Deleting One Element | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1586-longest-subarray-of-1s-after-deleting-one-element/longest-subarray-of-1s-after-deleting-one-element.py) |
 | 1798 | Max Number Of K Sum Pairs | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1798-max-number-of-k-sum-pairs/max-number-of-k-sum-pairs.py) |
+| 1833 | Find The Highest Altitude | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1833-find-the-highest-altitude/find-the-highest-altitude.py) |
 | 1894 | Merge Strings Alternately | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1894-merge-strings-alternately/merge-strings-alternately.py) |
 | 2058 | Concatenation Of Array | [Python](https://github.com/alitaqishah/Leetcode/blob/main/2058-concatenation-of-array/concatenation-of-array.py) |
