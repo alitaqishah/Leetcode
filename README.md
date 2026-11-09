@@ -45,6 +45,7 @@
 | 826 | Soup Servings | [Python](https://github.com/alitaqishah/Leetcode/blob/main/826-soup-servings/soup-servings.py) |
 | 867 | New 21 Game | [Python](https://github.com/alitaqishah/Leetcode/blob/main/867-new-21-game/new-21-game.py) |
 | 903 | Implement Rand10 Using Rand7 | [Python](https://github.com/alitaqishah/Leetcode/blob/main/903-implement-rand10-using-rand7/implement-rand10-using-rand7.py) |
+| 969 | Number Of Recent Calls | [Python](https://github.com/alitaqishah/Leetcode/blob/main/969-number-of-recent-calls/number-of-recent-calls.py) |
 | 1046 | Max Consecutive Ones Iii | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1046-max-consecutive-ones-iii/max-consecutive-ones-iii.py) |
 | 1146 | Greatest Common Divisor Of Strings | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1146-greatest-common-divisor-of-strings/greatest-common-divisor-of-strings.py) |
 | 1319 | Unique Number Of Occurrences | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1319-unique-number-of-occurrences/unique-number-of-occurrences.py) |
