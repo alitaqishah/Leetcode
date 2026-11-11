@@ -62,5 +62,6 @@
 | 1833 | Find The Highest Altitude | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1833-find-the-highest-altitude/find-the-highest-altitude.py) |
 | 1894 | Merge Strings Alternately | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1894-merge-strings-alternately/merge-strings-alternately.py) |
 | 2058 | Concatenation Of Array | [Python](https://github.com/alitaqishah/Leetcode/blob/main/2058-concatenation-of-array/concatenation-of-array.py) |
+| 2216 | Delete The Middle Node Of A Linked List | [Python](https://github.com/alitaqishah/Leetcode/blob/main/2216-delete-the-middle-node-of-a-linked-list/delete-the-middle-node-of-a-linked-list.py) |
 | 2428 | Equal Row And Column Pairs | [Python](https://github.com/alitaqishah/Leetcode/blob/main/2428-equal-row-and-column-pairs/equal-row-and-column-pairs.py) |
 | 2470 | Removing Stars From A String | [Python](https://github.com/alitaqishah/Leetcode/blob/main/2470-removing-stars-from-a-string/removing-stars-from-a-string.py) |
