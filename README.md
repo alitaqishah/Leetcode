@@ -22,6 +22,7 @@
 | 68 | Text Justification | [Python](https://github.com/alitaqishah/Leetcode/blob/main/68-text-justification/text-justification.py) |
 | 80 | Remove Duplicates From Sorted Array Ii | [Python](https://github.com/alitaqishah/Leetcode/blob/main/80-remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.py) |
 | 88 | Merge Sorted Array | [Python](https://github.com/alitaqishah/Leetcode/blob/main/88-merge-sorted-array/merge-sorted-array.py) |
+| 104 | Maximum Depth Of Binary Tree | [Python](https://github.com/alitaqishah/Leetcode/blob/main/104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.py) |
 | 121 | Best Time To Buy And Sell Stock | [Python](https://github.com/alitaqishah/Leetcode/blob/main/121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
 | 122 | Best Time To Buy And Sell Stock Ii | [Python](https://github.com/alitaqishah/Leetcode/blob/main/122-best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py) |
 | 125 | Valid Palindrome | [Python](https://github.com/alitaqishah/Leetcode/blob/main/125-valid-palindrome/valid-palindrome.py) |
