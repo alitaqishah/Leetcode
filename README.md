@@ -57,6 +57,7 @@
 | 1392 | Find The Difference Of Two Arrays | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1392-find-the-difference-of-two-arrays/find-the-difference-of-two-arrays.py) |
 | 1482 | How Many Numbers Are Smaller Than The Current Number | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1482-how-many-numbers-are-smaller-than-the-current-number/how-many-numbers-are-smaller-than-the-current-number.py) |
 | 1528 | Kids With The Greatest Number Of Candies | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1528-kids-with-the-greatest-number-of-candies/kids-with-the-greatest-number-of-candies.py) |
+| 1544 | Count Good Nodes In Binary Tree | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1544-count-good-nodes-in-binary-tree/count-good-nodes-in-binary-tree.py) |
 | 1567 | Maximum Number Of Vowels In A Substring Of Given Length | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1567-maximum-number-of-vowels-in-a-substring-of-given-length/maximum-number-of-vowels-in-a-substring-of-given-length.py) |
 | 1577 | Probability Of A Two Boxes Having The Same Number Of Distinct Balls | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1577-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py) |
 | 1586 | Longest Subarray Of 1S After Deleting One Element | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1586-longest-subarray-of-1s-after-deleting-one-element/longest-subarray-of-1s-after-deleting-one-element.py) |
