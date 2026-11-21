@@ -54,6 +54,7 @@
 | 904 | Leaf Similar Trees | [Python](https://github.com/alitaqishah/Leetcode/blob/main/904-leaf-similar-trees/leaf-similar-trees.py) |
 | 969 | Number Of Recent Calls | [Python](https://github.com/alitaqishah/Leetcode/blob/main/969-number-of-recent-calls/number-of-recent-calls.py) |
 | 1046 | Max Consecutive Ones Iii | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1046-max-consecutive-ones-iii/max-consecutive-ones-iii.py) |
+| 1116 | Maximum Level Sum Of A Binary Tree | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1116-maximum-level-sum-of-a-binary-tree/maximum-level-sum-of-a-binary-tree.py) |
 | 1146 | Greatest Common Divisor Of Strings | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1146-greatest-common-divisor-of-strings/greatest-common-divisor-of-strings.py) |
 | 1319 | Unique Number Of Occurrences | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1319-unique-number-of-occurrences/unique-number-of-occurrences.py) |
 | 1362 | Airplane Seat Assignment Probability | [Python](https://github.com/alitaqishah/Leetcode/blob/main/1362-airplane-seat-assignment-probability/airplane-seat-assignment-probability.py) |
