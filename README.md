@@ -48,6 +48,7 @@
 | 643 | Maximum Average Subarray I | [Python](https://github.com/alitaqishah/Leetcode/blob/main/643-maximum-average-subarray-i/maximum-average-subarray-i.py) |
 | 649 | Dota2 Senate | [Python](https://github.com/alitaqishah/Leetcode/blob/main/649-dota2-senate/dota2-senate.py) |
 | 724 | Find Pivot Index | [Python](https://github.com/alitaqishah/Leetcode/blob/main/724-find-pivot-index/find-pivot-index.py) |
+| 783 | Search In A Binary Search Tree | [Python](https://github.com/alitaqishah/Leetcode/blob/main/783-search-in-a-binary-search-tree/search-in-a-binary-search-tree.py) |
 | 826 | Soup Servings | [Python](https://github.com/alitaqishah/Leetcode/blob/main/826-soup-servings/soup-servings.py) |
 | 867 | New 21 Game | [Python](https://github.com/alitaqishah/Leetcode/blob/main/867-new-21-game/new-21-game.py) |
 | 903 | Implement Rand10 Using Rand7 | [Python](https://github.com/alitaqishah/Leetcode/blob/main/903-implement-rand10-using-rand7/implement-rand10-using-rand7.py) |
