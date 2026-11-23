@@ -44,6 +44,7 @@
 | 394 | Decode String | [Python](https://github.com/alitaqishah/Leetcode/blob/main/394-decode-string/decode-string.py) |
 | 437 | Path Sum Iii | [Python](https://github.com/alitaqishah/Leetcode/blob/main/437-path-sum-iii/path-sum-iii.py) |
 | 443 | String Compression | [Python](https://github.com/alitaqishah/Leetcode/blob/main/443-string-compression/string-compression.py) |
+| 450 | Delete Node In A Bst | [Python](https://github.com/alitaqishah/Leetcode/blob/main/450-delete-node-in-a-bst/delete-node-in-a-bst.py) |
 | 605 | Can Place Flowers | [Python](https://github.com/alitaqishah/Leetcode/blob/main/605-can-place-flowers/can-place-flowers.py) |
 | 643 | Maximum Average Subarray I | [Python](https://github.com/alitaqishah/Leetcode/blob/main/643-maximum-average-subarray-i/maximum-average-subarray-i.py) |
 | 649 | Dota2 Senate | [Python](https://github.com/alitaqishah/Leetcode/blob/main/649-dota2-senate/dota2-senate.py) |
