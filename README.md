@@ -52,6 +52,7 @@
 | 783 | Search In A Binary Search Tree | [Python](https://github.com/alitaqishah/Leetcode/blob/main/783-search-in-a-binary-search-tree/search-in-a-binary-search-tree.py) |
 | 826 | Soup Servings | [Python](https://github.com/alitaqishah/Leetcode/blob/main/826-soup-servings/soup-servings.py) |
 | 867 | New 21 Game | [Python](https://github.com/alitaqishah/Leetcode/blob/main/867-new-21-game/new-21-game.py) |
+| 871 | Keys And Rooms | [Python](https://github.com/alitaqishah/Leetcode/blob/main/871-keys-and-rooms/keys-and-rooms.py) |
 | 903 | Implement Rand10 Using Rand7 | [Python](https://github.com/alitaqishah/Leetcode/blob/main/903-implement-rand10-using-rand7/implement-rand10-using-rand7.py) |
 | 904 | Leaf Similar Trees | [Python](https://github.com/alitaqishah/Leetcode/blob/main/904-leaf-similar-trees/leaf-similar-trees.py) |
 | 969 | Number Of Recent Calls | [Python](https://github.com/alitaqishah/Leetcode/blob/main/969-number-of-recent-calls/number-of-recent-calls.py) |
