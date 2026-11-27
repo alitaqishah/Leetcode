@@ -42,6 +42,7 @@
 | 380 | Insert Delete Getrandom O1 | [Python](https://github.com/alitaqishah/Leetcode/blob/main/380-insert-delete-getrandom-o1/insert-delete-getrandom-o1.py) |
 | 392 | Is Subsequence | [Python](https://github.com/alitaqishah/Leetcode/blob/main/392-is-subsequence/is-subsequence.py) |
 | 394 | Decode String | [Python](https://github.com/alitaqishah/Leetcode/blob/main/394-decode-string/decode-string.py) |
+| 399 | Evaluate Division | [Python](https://github.com/alitaqishah/Leetcode/blob/main/399-evaluate-division/evaluate-division.py) |
 | 437 | Path Sum Iii | [Python](https://github.com/alitaqishah/Leetcode/blob/main/437-path-sum-iii/path-sum-iii.py) |
 | 443 | String Compression | [Python](https://github.com/alitaqishah/Leetcode/blob/main/443-string-compression/string-compression.py) |
 | 450 | Delete Node In A Bst | [Python](https://github.com/alitaqishah/Leetcode/blob/main/450-delete-node-in-a-bst/delete-node-in-a-bst.py) |
